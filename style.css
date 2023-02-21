@@ -1,0 +1,8 @@
+.outer-div{
+    border: dotted blue;
+}
+.inner-div{
+    padding: 20px;
+    margin: 5%;
+    border: solid blue;
+}
